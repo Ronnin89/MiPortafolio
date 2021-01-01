@@ -36,3 +36,13 @@ footer
     right:20px;
     z-index: 5;
 }
+.bg-fondo{
+    background-color: black;
+}
+.bg-foto{
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(../img/background.jpeg);
+    height: 800px;
+}
